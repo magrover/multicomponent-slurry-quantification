@@ -1,5 +1,4 @@
 # multicomponent-slurry-quantification
-Supporting GitHub information for Multicomponent Slurry Monitoring at Hanford
 
 This repository contains the code, spectral data, and concentration data used in “Quantifying Dense Multicomponent Slurries with In-line ATR-FTIR and Raman Spectroscopy: A Hanford case study.”
 
